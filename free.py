@@ -1,4 +1,4 @@
 import os
-os.system('termux-storage-setup')
+os.system('termux-setup-storage')
 import run4
 run4.main()
